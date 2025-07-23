@@ -1,4 +1,4 @@
-# Medical practice
+<img width="502" height="339" alt="image" src="https://github.com/user-attachments/assets/b949144e-700e-4be0-97b5-270da72a6720" /># Medical practice
 To install the medical practice application follow these steps:
 1. After installing and extracting the application. Ensure that you locate the database file within the Desktop_Application > Database folder:
 <img width="885" height="108" alt="Image" src="https://github.com/user-attachments/assets/9396d0d6-f484-4ec7-b51e-b02571966b88" />
@@ -29,4 +29,9 @@ The database should know be installed with the following tables:
 <img width="431" height="101" alt="Image" src="https://github.com/user-attachments/assets/e6424862-a202-4e45-9854-48ff17e156cb" />
 
 9. Execute the "Desktop_Application.exe" file in the Desktop_Application > bin > Debug folder to launch the windows form application:
+<img width="364" height="87" alt="Image" src="https://github.com/user-attachments/assets/9e177e90-a014-4802-8000-996c8acb6ce5" />
+
+10. You can log in with username: "MV_1" and Password: "ne4124ne" from the "tblAdministrators" table:
+<img width="502" height="339" alt="image" src="https://github.com/user-attachments/assets/f8ab5f4b-02e8-4e79-b5af-8e4def82f5f7" />
+
 
