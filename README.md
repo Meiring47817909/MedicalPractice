@@ -13,4 +13,5 @@ To install the medical practice application follow these steps:
 <img width="143" height="56" alt="Image" src="https://github.com/user-attachments/assets/c47bb0db-885c-41cd-b2bd-df21b7ec6876" />
 
 The database should know be installed with the following tables:
+
 <img width="194" height="198" alt="Image" src="https://github.com/user-attachments/assets/201e0814-30d5-4d14-9a9c-ab943e184c42" />
