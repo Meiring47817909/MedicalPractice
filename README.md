@@ -6,7 +6,7 @@ To install the medical practice application follow these steps:
 2. Open Microsoft SQL Server Management Studio and select "Import Data-tier Application..." and click Next:
 <img width="295" height="162" alt="Image" src="https://github.com/user-attachments/assets/328f62a0-c9d6-40a1-a446-3f7e7d546bb2" />
 
-3. Browse and select the Brighton_Medical_DB.bacpac file located in step 1 and Click Next:
+3. Browse and select the "Brighton_Medical_DB.bacpac" file located in step 1 and Click Next:
 <img width="502" height="118" alt="Image" src="https://github.com/user-attachments/assets/2f46733d-d73a-4bff-a0c3-d1f716b047b2" />
 
 5. Ensure that the database is named exacly as follows, click Next and Finish:
@@ -15,3 +15,8 @@ To install the medical practice application follow these steps:
 The database should know be installed with the following tables:
 
 <img width="194" height="198" alt="Image" src="https://github.com/user-attachments/assets/201e0814-30d5-4d14-9a9c-ab943e184c42" />
+
+6. Return to the Desktop_Application folder and open the "App.config" file with a code editor application:
+<img width="369" height="250" alt="Image" src="https://github.com/user-attachments/assets/0c4daee9-da03-4240-9bf8-07b19afef642" />
+
+7. Ensure that you enter the correct connection string for the windows application to access the database on Microsoft SQL Server.
