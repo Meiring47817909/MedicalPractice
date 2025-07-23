@@ -19,11 +19,14 @@ The database should know be installed with the following tables:
 5. Return to the Desktop_Application folder and open the "App.config" file with a code editor application:
 <img width="369" height="250" alt="Image" src="https://github.com/user-attachments/assets/0c4daee9-da03-4240-9bf8-07b19afef642" />
 
-6. Ensure that you enter the correct connection string for the windows form application to access the database on Microsoft SQL Server.
+6. Ensure that you enter the correct connection string for the windows form application to access the database on Microsoft SQL Server:
 <img width="431" height="101" alt="Image" src="https://github.com/user-attachments/assets/e6424862-a202-4e45-9854-48ff17e156cb" />
 
 7. Go to the Web_Application folder and open the "Web.config" file with a code editor application:
 <img width="362" height="207" alt="Image" src="https://github.com/user-attachments/assets/aa8b64a1-c138-400b-9e36-b87d11a88541" />
 
-8. Ensure that you enter the correct connection string for the web application to access the database on Microsoft SQL Server.
+8. Ensure that you enter the correct connection string for the web application to access the database on Microsoft SQL Server:
 <img width="431" height="101" alt="Image" src="https://github.com/user-attachments/assets/e6424862-a202-4e45-9854-48ff17e156cb" />
+
+9. Execute the "Desktop_Application.exe" file in the Desktop_Application > bin > Debug folder to launch the windows form application:
+
