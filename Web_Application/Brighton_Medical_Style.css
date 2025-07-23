@@ -1,0 +1,11 @@
+﻿.myButton {
+    background-color: lightblue;
+    border: 2px solid dodgerblue;
+    text-align: center;
+    font-size: x-large;
+}
+
+.myButton:hover {
+    background-color: #333399;
+    color: white;
+}
