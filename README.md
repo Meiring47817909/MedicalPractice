@@ -1,6 +1,6 @@
 # Medical practice
 To install the medical practice application follow these steps:
-1. Ensure that you locate the database file within the Desktop_Application > Database folder:
+1. After installing and extracting the application. Ensure that you locate the database file within the Desktop_Application > Database folder:
 <img width="885" height="108" alt="Image" src="https://github.com/user-attachments/assets/9396d0d6-f484-4ec7-b51e-b02571966b88" />
 
 2. Open Microsoft SQL Server Management Studio and select "Import Data-tier Application..." and click Next:
@@ -12,4 +12,5 @@ To install the medical practice application follow these steps:
 5. Ensure that the database is named exacly as follows, click Next and Finish:
 <img width="143" height="56" alt="Image" src="https://github.com/user-attachments/assets/c47bb0db-885c-41cd-b2bd-df21b7ec6876" />
 
-
+The database should know be installed with the following tables:
+<img width="194" height="198" alt="Image" src="https://github.com/user-attachments/assets/201e0814-30d5-4d14-9a9c-ab943e184c42" />
