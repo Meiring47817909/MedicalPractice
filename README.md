@@ -1,8 +1,8 @@
 # Medical practice
 ## To install the medical practice application follow these steps:
-<details>
+<details open>
 
-<summary>Tips for collapsed sections</summary>
+<summary>Database setup</summary>
 
 ### You can add a header
 
