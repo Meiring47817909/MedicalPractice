@@ -30,11 +30,7 @@ The database should know be installed with the following tables:
 
 9. Open the "47817909_Exam_Project.sln" solution file in Visual Studio:
 <img width="195" height="135" alt="image" src="https://github.com/user-attachments/assets/195b65b8-81a7-42f9-bf60-504707f9d93c" />
+<img width="67" height="58" alt="image" src="https://github.com/user-attachments/assets/a6b7730a-b503-4047-9bc6-1f8ce6027ef9" />
 
 10. You can log in with Administrator ID: "MV_1" and Password: "ne4124ne" from the "tblAdministrators" table:
 <img width="502" height="339" alt="image" src="https://github.com/user-attachments/assets/f8ab5f4b-02e8-4e79-b5af-8e4def82f5f7" />
-
-11. The web application can be executed within Visual Studio:
-<img width="88" height="61" alt="image" src="https://github.com/user-attachments/assets/68b342af-a29e-4a49-ac50-3370915eeb88" />
-
-12. You can log in with Administrator ID: "MV_1" and Password: "ne4124ne" from the "tblAdministrators" table:
