@@ -1,5 +1,21 @@
 # Medical practice
-<h3>To install the medical practice application follow these steps:</h3>
+## To install the medical practice application follow these steps:
+<details>
+
+<summary>Tips for collapsed sections</summary>
+
+### You can add a header
+
+You can add text within a collapsed section.
+
+You can add an image or a code block, too.
+
+```ruby
+   puts "Hello World"
+```
+
+</details>
+
 <ol>
   <li>Database setup</li>
   <ol class="lead">
