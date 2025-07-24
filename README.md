@@ -1,4 +1,16 @@
 # Medical practice
+<h4>A nested List:</h4>
+<ul>
+  <li>Coffee</li>
+  <li>Tea
+    <ul>
+    <li>Black tea</li>
+    <li>Green tea</li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+
 <h1>To install the medical practice application follow these steps:</h1>
 1. After installing and extracting the application. Ensure that you locate the database file within the Desktop_Application > Database folder:
 <img width="652" height="82" alt="image" src="https://github.com/user-attachments/assets/4436ceff-0d33-4e5d-9cd4-b2d033c57a8f" />
