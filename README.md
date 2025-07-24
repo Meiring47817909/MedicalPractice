@@ -28,8 +28,8 @@ The database should know be installed with the following tables:
 8. Ensure that you enter the correct connection string for the web application to access the database on Microsoft SQL Server:
 <img width="431" height="101" alt="Image" src="https://github.com/user-attachments/assets/e6424862-a202-4e45-9854-48ff17e156cb" />
 
-9. Execute the "Desktop_Application.exe" file in the Desktop_Application > bin > Debug folder to launch the windows form application:
-<img width="364" height="87" alt="Image" src="https://github.com/user-attachments/assets/9e177e90-a014-4802-8000-996c8acb6ce5" />
+9. Open the "47817909_Exam_Project.sln" solution file in Visual Studio:
+<img width="195" height="135" alt="image" src="https://github.com/user-attachments/assets/195b65b8-81a7-42f9-bf60-504707f9d93c" />
 
 10. You can log in with Administrator ID: "MV_1" and Password: "ne4124ne" from the "tblAdministrators" table:
 <img width="502" height="339" alt="image" src="https://github.com/user-attachments/assets/f8ab5f4b-02e8-4e79-b5af-8e4def82f5f7" />
