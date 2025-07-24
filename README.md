@@ -28,7 +28,7 @@ The database should know be installed with the following tables:
 8. Ensure that you enter the correct connection string for the web application to access the database on Microsoft SQL Server:
 <img width="431" height="101" alt="Image" src="https://github.com/user-attachments/assets/e6424862-a202-4e45-9854-48ff17e156cb" />
 
-9. Open the "47817909_Exam_Project.sln" solution file in Visual Studio:
+9. Open the "47817909_Exam_Project.sln" solution file in Visual Studio and start the program:
 <img width="195" height="135" alt="image" src="https://github.com/user-attachments/assets/195b65b8-81a7-42f9-bf60-504707f9d93c" />
 <img width="67" height="58" alt="image" src="https://github.com/user-attachments/assets/a6b7730a-b503-4047-9bc6-1f8ce6027ef9" />
 
