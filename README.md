@@ -1,4 +1,4 @@
-# Medical practice
+# Brighton Medical
 ## To install the medical practice application follow these steps:
 <details open>
    <summary><h3>Database setup</h3></summary>
